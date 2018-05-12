@@ -1,0 +1,32 @@
+_repo: Nicht-da-nicht-dort_36862
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ehrenstein, Albert
+    birthdate: 1886
+    deathdate: 1950
+    gutenberg_agent_id: '38477'
+    url: http://www.gutenberg.org/2009/agents/38477
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36862'
+  lccn: '51053858'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature'
+tableOfContents: Das Martyrium Homers -- Der Fluch des Magiers Anateiresiotidas --
+  Liebe -- Der Knecht seines Schicksals -- Hildebrandslied -- Traum des 888. Nachtredakteurs
+  -- Die alte Geschichte -- Frühes Leid -- Wodianer -- Tod eines Seebären -- Ausflug
+  -- Vorbild -- Mammuthbaum.
+title: Nicht da, nicht dort
+url: http://www.gutenberg.org/ebooks/36862
